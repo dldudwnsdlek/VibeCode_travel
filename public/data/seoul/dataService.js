@@ -10,8 +10,10 @@ const DATA_FILES = [
   { file: '/data/seoul/서울_숙박.json', category: '숙박' },
   { file: '/data/seoul/서울_여행코스.json', category: '여행코스' },
   { file: '/data/seoul/서울_축제공연행사.json', category: '축제공연행사' },
+  // TODO: 서울_음식점.json (진짜 TourAPI 데이터) 받으면 아래 두 줄을 교체할 것
+  // 지금은 화면/챗봇 개발 테스트용 목업 데이터(서울_음식점_MOCK.json)를 임시로 연결해둠.
+  // 목업 데이터는 실제 공공데이터가 아니므로 최종 제출 전 반드시 교체 필요.
   { file: '/data/seoul/서울_음식점_MOCK.json', category: '음식점' },
-  // TODO: 서울_음식점.json 아직 미확보. 팀원에게 받으면 아래 줄 주석 해제
   // { file: '/data/seoul/서울_음식점.json', category: '음식점' },
 ]
 
