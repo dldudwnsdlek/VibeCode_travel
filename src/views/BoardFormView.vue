@@ -111,7 +111,12 @@ textarea {
 .btn-primary {
   background: #2f6fed;
   color: #fff;
-  border-color: #2f6fed !important;
+  border-color: #2f6fed;
+}
+.form-actions .btn-primary {
+  background: #2f6fed;
+  color: #fff;
+  border-color: #2f6fed;
 }
 .error {
   color: #d33;
