@@ -10,6 +10,7 @@ const DATA_FILES = [
   { file: '/data/seoul/서울_숙박.json', category: '숙박' },
   { file: '/data/seoul/서울_여행코스.json', category: '여행코스' },
   { file: '/data/seoul/서울_축제공연행사.json', category: '축제공연행사' },
+  { file: '/data/seoul/서울_음식점_MOCK.json', category: '음식점' },
   // TODO: 서울_음식점.json 아직 미확보. 팀원에게 받으면 아래 줄 주석 해제
   // { file: '/data/seoul/서울_음식점.json', category: '음식점' },
 ]
