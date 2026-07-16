@@ -1,0 +1,5 @@
+# 브라우저에서 사용하는 카카오맵 키 (VITE_ 접두사 → 프론트엔드에 노출됨, 정상)
+VITE_KAKAO_MAP_APP_KEY=559cdeb1bc14680b455c4a2368299d3e
+
+# Netlify Function에서만 사용하는 서버 전용 키 (VITE_ 접두사 절대 붙이지 말 것)
+OPENAI_API_KEY=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
